@@ -1,0 +1,11 @@
+D:\CS_Projects\CS_Project_2\CS_Project_2\bin\Release\CS_Project_2.exe.config
+D:\CS_Projects\CS_Project_2\CS_Project_2\bin\Release\CS_Project_2.exe
+D:\CS_Projects\CS_Project_2\CS_Project_2\bin\Release\CS_Project_2.pdb
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.frmLogIn.resources
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.frmReceipt.resources
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.frmSelection.resources
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.frmMainMenu.resources
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.Properties.Resources.resources
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.csproj.GenerateResource.Cache
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.exe
+D:\CS_Projects\CS_Project_2\CS_Project_2\obj\Release\CS_Project_2.pdb
